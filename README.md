@@ -28,5 +28,5 @@ This model is then compared to an Azure AutoML run.
 *We need to fix the class imbalance problem as the response variable has highly imbalance values.*
 ## Proof of cluster clean up
 **If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Ishmeetsingh97/nd00333_AZMLND_Optimizing_a_Pipeline_in_Azure-Starter_Files/blob/master/Screenshot%20from%202020-09-26%2013-58-39.png)
 
